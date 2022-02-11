@@ -1,7 +1,7 @@
 ### Hello! 👋
 
 My name is Skitbet/Skeeter, and welcome to my Github profile! I am a game developer, a Minecraft spigot developer,
-and I have minecraft bedrock API Knowledge.
+and I have minecraft bedrock API Knowledge. I also do 3d Modeling, and some Animation from time to time.
 
 - 🎉My main programming languages are [C#, C++, Java, Lua, JS]
 
