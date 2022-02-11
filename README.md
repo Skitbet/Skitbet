@@ -5,4 +5,4 @@ and I have minecraft bedrock API Knowledge.
 
 - 🎉My main programming languages are [C#, C++, Java, Lua, JS]
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=skitbett&count_private=true&theme=merko)
+![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=skitbet&count_private=true&theme=merko)
