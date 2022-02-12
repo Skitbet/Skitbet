@@ -5,4 +5,7 @@ and I have minecraft bedrock API Knowledge. I also do 3d Modeling, and some Anim
 
 - 🎉My main programming languages are [C#, C++, Java, Lua, JS]
 
-![My GitHub Statistics](https://github-readme-stats.vercel.app/api?username=skitbet&count_private=true&theme=merko)
+[![Skitbet's github stats](https://github-readme-stats.vercel.app/api?username=nxrighthere&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Skitbet%20statistics)](https://github.com/Skitbet)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skitbet&layout=compact&theme=github_dark&hide=cmake,makefile,shell)](https://github.com/Skitbet)
+
