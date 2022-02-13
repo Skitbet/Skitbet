@@ -8,5 +8,5 @@ and I have minecraft bedrock API Knowledge. I also do 3d Modeling, and some Anim
 
 [![Skitbet's github stats](https://github-readme-stats.vercel.app/api?username=nxrighthere&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Skitbet%20statistics)](https://github.com/Skitbet)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skitbet&show_icons=true&title_color=33B0FF&icon_color=33FFFC&text_color=daf7dc&bg_color=151515&count_private=true)](https://github.com/Skitbet)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skitbet)](https://github.com/Skitbet)
 
