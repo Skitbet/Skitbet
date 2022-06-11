@@ -11,4 +11,4 @@
 <a href="https://twitter.com/skitbet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skitbet" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skitbet&show_icons=true&locale=en" alt="skitbet" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=skitbet&show_icons=true&theme=github_dark&locale=en" alt="skitbet" /></p>
