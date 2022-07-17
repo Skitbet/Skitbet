@@ -10,6 +10,7 @@
 
 <h3 align="left">Socials (Furry related):</h3>
 <p align="left">
+<img src="https://lanyard.cnrad.dev/api/435598105073811476?bg=333333&borderRadius=10px" />  
 <a href="https://twitter.com/skitbet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skitbet" height="30" width="40" /></a>
 </p>
 
