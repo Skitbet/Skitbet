@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently relearning **JS**
 
-- 🧨Where are all your repos? **I keep most of my repo's private. I will make some public ones over time**
+- 🧨Where are all your repos? **I keep most of my repo's private. I'm thinking about making some public ones soon!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
