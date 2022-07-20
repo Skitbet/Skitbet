@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Skitbet!</h1>
-<h3 align="center">I'm a 16 year old Network and Software Engineer who likes to break stuff...</h3>
+<h3 align="center">I'm a 16 year old Network and Software Engineer/full-stack developer who likes to break stuff...</h3>
 
 - 🌱 I’m currently relearning **JS**
 
