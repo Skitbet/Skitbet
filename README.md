@@ -5,7 +5,7 @@
 
 - 🧨Where are all your repos? **I keep most of my repo's private. I'm thinking about making some public ones soon!**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
 <a href="https://twitter.com/skitbet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skitbet" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/skitbet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="skitbet" height="30" width="40" /></a>
