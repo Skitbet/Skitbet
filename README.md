@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Skitbet!</h1>
 <h3 align="center">I'm a 16 year old Network and Software Engineer / full-stack developer who likes to break stuff...</h3>
 
-- 🌱 I’m currently relearning **JS**
+- 🌱 I’m currently working on a big unreleased project!
 
 - 🧨Where are all your repos? **I keep most of my repo's private. I'm thinking about making some public ones soon!**
 
