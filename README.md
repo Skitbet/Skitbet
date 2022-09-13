@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Skitbet!</h1>
-<h3 align="center">I'm a 16 year old who is currently studying Software Engineering and some Network..</h3>
+<h3 align="center">I'm a 16 year old furry who is currently studying Software Engineering and some Networking..</h3>
 
-- 🌱 I’m currently working on a big unreleased project!
-
-- 🧨Where are all your repos? **I keep most of my repo's private. I'm thinking about making some public ones soon!**
+- 🌱 I’m currently working on nothing...
 
 <h3 align="left">Socials:</h3>
 <p align="left">
