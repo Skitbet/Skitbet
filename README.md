@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Skitbet!</h1>
-<h3 align="center">A furry who is currently studying Engineering..</h3>
+<h3 align="center">A weird idiot.</h3>
 
 - 🌱 I’m currently working on nothing...
 
