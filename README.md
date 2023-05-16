@@ -1,6 +1,7 @@
 # 💫 About Me:
-🕐Joined GitHub 6 years ago<br><br>
-
+🕐Joined GitHub 4 years ago<br><br>
+🕐Started programming 4 years ago<br><br>
+🎉Born May 13th, 2006<br><br>
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/skitbet) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skitbet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@skitbet) 
