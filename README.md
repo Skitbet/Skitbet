@@ -1,7 +1,5 @@
 # 💫 About Me:
-🕐Joined GitHub 4 years ago<br><br>
-🕐Started programming 4 years ago<br><br>
-🎉Born May 13th, 2006<br><br>
+Howdy, I'm Skitbet... I'm a 17 year old and pretty introverted. I'm a Fullstack Software Developer and occasionally do other things like Web and Game Development. 
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/skitbet) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skitbet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@skitbet) 
@@ -16,8 +14,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Skitbet&icon=1&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Skitbet) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
