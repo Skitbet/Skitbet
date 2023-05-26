@@ -1,5 +1,5 @@
 # 💫 About Me:
-Howdy, I'm Skitbet... I'm a 17 year old and pretty introverted. I'm a Fullstack Software Developer and occasionally do other things like Web and Game Development. 
+Howdy, I'm Skitbet... I'm a 17 year old and introverted Fullstack Software Developer and occasionally do other things like Web and Game Development. 
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/skitbet) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/skitbet) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@skitbet) 
