@@ -1,5 +1,5 @@
 # 💫 About Me:
-Howdy, I'm Skitbet... I'm a 17-year-old introverted Fullstack Software Developer and occasionally do other things like Web and Game Development. I love learning new things and getting experience.
+Howdy, I'm Skitbet... I'm a 18-year-old introverted Fullstack Software Developer and occasionally do other things like Web and Game Development. I love learning new things and getting experience.
 
 ![](https://github-readme-stats.vercel.app/api?username=Skitbet&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
